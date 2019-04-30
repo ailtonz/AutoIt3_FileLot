@@ -4,7 +4,7 @@
 ;~ Criar lotes de arquivos
 
 ;~ Caminho de arquivos para lotes
-dim $sPath = "C:\Users\ailton.z.da.silva\Desktop\AutoIt3\Helpfile\Helpfile_001\"
+dim $sPath = "D:\tmp\"
 
 ;~ Nome do(s) lotes
 dim $sFolder = "Lote_"
