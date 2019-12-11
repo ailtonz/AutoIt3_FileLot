@@ -4,7 +4,7 @@
 ;~ Criar lotes de arquivos
 
 ;~ Caminho de arquivos para lotes
-dim $sPath = "D:\tmp\"
+dim $sPath = @ScriptDir & "\"
 
 ;~ Nome do(s) lotes
 dim $sFolder = "Lote_"
